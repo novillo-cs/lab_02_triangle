@@ -36,3 +36,5 @@ Constructors:
 - Test each method on different triangles
 - Change each vertex, and test your methods
 - Check the perimeter calculation
+
+### ADITIONAL FEATURES WILL BE ADDED SOON.
