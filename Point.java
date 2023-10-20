@@ -40,19 +40,6 @@ public class Point{
     return 0.0;
   }
 
-  public double getPerimeter(){
-    // YOUR CODE HERE
-    return 0.0;
-  }
-
-  public Point getVertex(int v){
-    return null;
-  }
-
-  public void setVertex(int v, Point p){
-    return null;
-  }
-  
   // How can you determine if two values are close enough to eachother?
   public static boolean closeEnough(double a, double b){
    // YOUR CODE HERE
