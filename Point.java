@@ -2,13 +2,14 @@ public class Point{
   private double x, y;
 
   // Constructors
-  public Point(double X, double Y){
-    x=X;
-    y=Y;
+  public Point(double xVal, double yVal){
+      x = xVal;
+      y = yVal;
   }
+  
   public Point(Point p){
-    x= p.x;
-    y= p.y;
+    x = p.x;
+    y = p.y;
   }
 
   // Getters
