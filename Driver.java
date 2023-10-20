@@ -15,6 +15,8 @@ public class Driver{
     // Print coordinates using your toString method from Point class
     
     // Calculate distances and print results
+
+    // Create Triangle objects and test the methods
     
   
     /*************     ADD MORE TEST CASES HERE    *************/
