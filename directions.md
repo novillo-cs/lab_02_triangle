@@ -3,14 +3,14 @@
 Instance variables: There are 3 instance variables which are Point objects:
 
 - v1 Point
-- v2 Point
+- V2 Point
 - v3 Point
 
 Constructors:
 
-- Triangle( double x0, double y0, double x1, double y1, double x2, double y2)
+- Triangle( double x1, double y1, double x2, double y2, double x3, double y3)
 
-- Triangle( Point v0, Point v1, Point v2)
+- Triangle( Point v1, Point v2, Point v3) 
 
  Methods:
  
