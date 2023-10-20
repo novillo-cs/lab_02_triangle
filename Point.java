@@ -40,19 +40,5 @@ public class Point{
     return 0.0;
   }
 
-  // How can you determine if two values are close enough to eachother?
-  public static boolean closeEnough(double a, double b){
-   // YOUR CODE HERE
-    return false;
-  }
-  
-  /* Return true when the respective x and y values of the two points differ by at most 0.001% each.
-  *  If one is 0.0, the other must be exactly 0.0.
-  */
-  public boolean equals(Point other){
-    // YOUR CODE HERE
-    return true;
-  }
-
 
 }
