@@ -1,6 +1,6 @@
 ### Write the Triangle class
 
-Instance variables: There are 3 instance variables which are Point objects
+Instance variables: There are 3 instance variables which are Point objects:
 
 - v1 Point
 - v2 Point
@@ -8,9 +8,9 @@ Instance variables: There are 3 instance variables which are Point objects
 
 Constructors:
 
-Triangle( double x0, double y0, double x1, double y1, double x2, double y2)
+- Triangle( double x0, double y0, double x1, double y1, double x2, double y2)
 
-Triangle( Point v0,Point v1,Point v2)
+- Triangle( Point v0,Point v1,Point v2)
 
  Methods:
  
