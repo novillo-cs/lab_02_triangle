@@ -10,7 +10,7 @@ Constructors:
 
 - Triangle( double x0, double y0, double x1, double y1, double x2, double y2)
 
-- Triangle( Point v0,Point v1,Point v2)
+- Triangle( Point v0, Point v1, Point v2)
 
  Methods:
  
