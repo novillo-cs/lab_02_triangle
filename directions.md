@@ -3,7 +3,7 @@
 Instance variables: There are 3 instance variables which are Point objects:
 
 - v1 Point
-- V2 Point
+- v2 Point
 - v3 Point
 
 Constructors:
