@@ -37,4 +37,4 @@ Constructors:
 - Change each vertex, and test your methods
 - Check the perimeter calculation
 
-### ADITIONAL FEATURES WILL BE ADDED SOON.
+### ADITIONAL FEATURES WILL BE ADDED SOON. IT WILL BE IN THE MATERIALS REPO, CHECK FOLDER "LABS".
