@@ -21,7 +21,7 @@ public class Point{
     return y;
   }
 
-  // CLASS METHODS
+  // METHODS
   
   /* Return a string with a coordinate values: (x, y)
   *  "(0.0, 0.0)"  or  "(- 10.5, 12.0)"
@@ -31,15 +31,16 @@ public class Point{
     return "";
   }
   
-  public static double distance(Point a, Point b){
-   // YOUR CODE HERE
-    return 0.0;
-  }
-  
   public double distanceTo(Point other){
     // YOUR CODE HERE
     return 0.0;
   }
 
+  // CLASS METHODS - STATIC METHODS
+  
+  public static double distance(Point a, Point b){
+   // YOUR CODE HERE
+    return 0.0;
+  }
 
 }
